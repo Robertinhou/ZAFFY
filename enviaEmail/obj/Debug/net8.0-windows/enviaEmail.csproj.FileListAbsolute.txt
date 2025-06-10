@@ -1,0 +1,16 @@
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\bin\Debug\net8.0-windows\enviaEmail.exe
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\bin\Debug\net8.0-windows\enviaEmail.deps.json
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\bin\Debug\net8.0-windows\enviaEmail.runtimeconfig.json
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\bin\Debug\net8.0-windows\enviaEmail.dll
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\bin\Debug\net8.0-windows\enviaEmail.pdb
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.Form1.resources
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.csproj.GenerateResource.cache
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.AssemblyInfoInputs.cache
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.AssemblyInfo.cs
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.csproj.CoreCompileInputs.cache
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.dll
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\refint\enviaEmail.dll
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.pdb
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\enviaEmail.genruntimeconfig.cache
+C:\Users\Aluno_Manha\source\repos\enviaEmail\enviaEmail\obj\Debug\net8.0-windows\ref\enviaEmail.dll
