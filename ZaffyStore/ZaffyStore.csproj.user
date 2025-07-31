@@ -7,6 +7,9 @@
     <Compile Update="UserControls\UC_Cadastro.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="UserControls\UC_Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="UserControls\UC_Login.cs">
       <SubType>UserControl</SubType>
     </Compile>

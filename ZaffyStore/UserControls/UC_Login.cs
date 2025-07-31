@@ -41,7 +41,13 @@ namespace ZaffyStore.UserControls
                             {
                                 string nomeLogado = usuarios.BuscarNome();
 
-                                MessageBox.Show($"Bem-vindo, {nomeLogado}!", "Login realizado", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                                
+                                UC_Home home = new UC_Home( );
+
+                                this.Controls.Clear();
+                                this.Controls.Add(home);
+
 
                             }
                             else
